@@ -1,7 +1,6 @@
 # Desafios curso em Vídeo
 
-Esse repositorio tem o proposito de por em pratica os desafios propostos pelo professor Gustavo guanabara do <a href="https://www.cursoemvideo.com/">
-Durante o curso de HTML5 e CSS3, em todos os 5 módulos.
+Esse repositorio tem o proposito de por em pratica os desafios propostos pelo professor Gustavo guanabara do <a href="https://www.cursoemvideo.com/">Cursos em Vídeo</a>ao longo dos 5 módulos de HTML5 e CSS3.
 
 ## Desafios concluidos
 
